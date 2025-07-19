@@ -1,0 +1,7 @@
+/env/
+/rezerv/
+xml_df.csv
+/yolov5/
+VOC_all.csv
+/y_data/
+*.pt
