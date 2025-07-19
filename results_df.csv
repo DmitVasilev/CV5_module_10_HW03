@@ -1,0 +1,2 @@
+model,parameters,GFLOPs,"train_time, s","time_per_epoch, s",mAP_50,mAP_50_95
+YOLO v5m,20929713,48.1,9639.245530366898,193,0.708,0.529
