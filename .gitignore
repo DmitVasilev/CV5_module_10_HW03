@@ -5,3 +5,4 @@ xml_df.csv
 VOC_all.csv
 /y_data/
 *.pt
+*.pth
