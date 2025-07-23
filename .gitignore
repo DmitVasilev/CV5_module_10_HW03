@@ -6,3 +6,4 @@ VOC_all.csv
 /y_data/
 *.pt
 *.pth
+score.md
